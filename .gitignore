@@ -1,0 +1,7 @@
+.idea/
+.phpintel/
+.phpunit.result.cache
+/vendor/
+tests/
+.node_modules/
+uploads/
